@@ -1,0 +1,12 @@
+Notes on this project.
+|====================|
+
+Purpose 
+
+-> This project was built to learn more about react and building modern responsive UI's
+|=<<-------------------------------------------------------------------------------->>=|
+
+Setup
+
+->
+|=<<-------------------------------------------------------------------------------->>=|
