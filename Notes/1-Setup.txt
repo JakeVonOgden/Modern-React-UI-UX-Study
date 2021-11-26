@@ -1,0 +1,78 @@
+SETUP
+---------------------------------------------------------------------------------------------
+~~> This project I set up react from scratch with the structure below.
+  
+~~> this makes your code very clean and gets you off to a good start in terms of organization.
+---------------------------------------------------------------------------------------------
+
+<> CREATING REACT APP FROM SCRATCH <>
+
+1.) INDEX.JS -~
+  
+  -> Hook React application to index.html
+  
+  -> import ReactDOM from 'react-dom';   || (only file necessary) ||
+  
+  -> import App from './App';    || (Create Later) ||
+
+  -> import './index.css';   || (Create Later) ||
+  
+  -> ReactDOM.render(<App />, document.getElementById('root')); 
+  |=| 
+    ~> root is the only element inside the true index.html we render the app there with this command <~                     
+  |=|
+.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
+
+2.) APP.JS -~
+
+  -> rafce
+  
+  -> import { <Components and Containers from Index.js files> } from './Components or Containers';
+.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.- 
+
+3.) COMPONENTS -~
+  
+  -> folder houses components
+.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
+  
+4.) CONTAINERS -~
+  
+  -> folder houses containers 
+.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
+
+5.) INDEX.JS files CONTAINERSandCOMPONENTS -~
+
+  -> export { default as <Component or Container> } from './lowercaseName/UPPERCASEname'
+.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
+
+6.) APP.CSS -~
+
+  -> * {
+      box-sizing: border-box;
+      padding: 0;
+      margin: 0;
+      scroll-behavior: smooth;
+  }
+
+  -> body {
+      background: var(--color-bg)
+  }
+.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
+
+7.) INDEX.CSS -~
+
+  -> Import fonts @import url('https://fonts.googleapis.com/');
+
+  -> :root {
+      --font-family: 
+
+      --gradient-text:
+      --gradient-bar:
+
+      --color-bg:
+      --color-footer:
+      --color-blog:
+      --color-text:
+      --color-subtext:
+  }
+.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
