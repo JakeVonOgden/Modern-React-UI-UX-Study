@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Modern-React-UI-UX-Study/static/css/main.ac9b0939.chunk.css",
+    "main.js": "/Modern-React-UI-UX-Study/static/js/main.e013e9e5.chunk.js",
+    "main.js.map": "/Modern-React-UI-UX-Study/static/js/main.e013e9e5.chunk.js.map",
+    "runtime-main.js": "/Modern-React-UI-UX-Study/static/js/runtime-main.d25fc491.js",
+    "runtime-main.js.map": "/Modern-React-UI-UX-Study/static/js/runtime-main.d25fc491.js.map",
+    "static/js/2.9aa08005.chunk.js": "/Modern-React-UI-UX-Study/static/js/2.9aa08005.chunk.js",
+    "static/js/2.9aa08005.chunk.js.map": "/Modern-React-UI-UX-Study/static/js/2.9aa08005.chunk.js.map",
+    "index.html": "/Modern-React-UI-UX-Study/index.html",
+    "static/css/main.ac9b0939.chunk.css.map": "/Modern-React-UI-UX-Study/static/css/main.ac9b0939.chunk.css.map",
+    "static/js/2.9aa08005.chunk.js.LICENSE.txt": "/Modern-React-UI-UX-Study/static/js/2.9aa08005.chunk.js.LICENSE.txt",
+    "static/media/ai.aa60586b.png": "/Modern-React-UI-UX-Study/static/media/ai.aa60586b.png",
+    "static/media/blog01.cefc0932.png": "/Modern-React-UI-UX-Study/static/media/blog01.cefc0932.png",
+    "static/media/blog02.ab0eb367.png": "/Modern-React-UI-UX-Study/static/media/blog02.ab0eb367.png",
+    "static/media/blog03.d9223238.png": "/Modern-React-UI-UX-Study/static/media/blog03.d9223238.png",
+    "static/media/blog04.742c1357.png": "/Modern-React-UI-UX-Study/static/media/blog04.742c1357.png",
+    "static/media/blog05.bfaa1c1e.png": "/Modern-React-UI-UX-Study/static/media/blog05.bfaa1c1e.png",
+    "static/media/logo.16efaf42.svg": "/Modern-React-UI-UX-Study/static/media/logo.16efaf42.svg",
+    "static/media/people.5cd2d6fb.png": "/Modern-React-UI-UX-Study/static/media/people.5cd2d6fb.png",
+    "static/media/possibility.525f13b6.png": "/Modern-React-UI-UX-Study/static/media/possibility.525f13b6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d25fc491.js",
+    "static/js/2.9aa08005.chunk.js",
+    "static/css/main.ac9b0939.chunk.css",
+    "static/js/main.e013e9e5.chunk.js"
+  ]
+}
